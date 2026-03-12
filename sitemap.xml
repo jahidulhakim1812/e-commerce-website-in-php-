@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+
+<url>
+  <loc>https://mariyamfashion.com/</loc>
+  <lastmod>2025-10-06T10:28:25+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://mariyamfashion.com/login.php</loc>
+  <lastmod>2025-10-06T10:28:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mariyamfashion.com/index.php</loc>
+  <lastmod>2025-10-06T10:28:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mariyamfashion.com/all_products.php</loc>
+  <lastmod>2025-10-06T10:28:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mariyamfashion.com/category.php</loc>
+  <lastmod>2025-10-06T10:28:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mariyamfashion.com/shop.php</loc>
+  <lastmod>2025-10-06T10:28:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mariyamfashion.com/about.php</loc>
+  <lastmod>2025-10-06T10:28:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mariyamfashion.com/contact.php</loc>
+  <lastmod>2025-10-06T10:28:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mariyamfashion.com/checkout.php</loc>
+  <lastmod>2025-10-06T10:28:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mariyamfashion.com/product_detail.php?id=23</loc>
+  <lastmod>2025-10-06T10:28:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mariyamfashion.com/product_detail.php?id=22</loc>
+  <lastmod>2025-10-06T10:28:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mariyamfashion.com/product_detail.php?id=21</loc>
+  <lastmod>2025-10-06T10:28:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mariyamfashion.com/product_detail.php?id=20</loc>
+  <lastmod>2025-10-06T10:28:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mariyamfashion.com/product_detail.php?id=19</loc>
+  <lastmod>2025-10-06T10:28:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mariyamfashion.com/product_detail.php?id=18</loc>
+  <lastmod>2025-10-06T10:28:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mariyamfashion.com/signup.php</loc>
+  <lastmod>2025-10-06T10:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mariyamfashion.com/forget_password.php</loc>
+  <lastmod>2025-10-06T10:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mariyamfashion.com/admin_forget_password.php</loc>
+  <lastmod>2025-10-06T10:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mariyamfashion.com/all_products.php?page=1&amp;search=&amp;filter=</loc>
+  <lastmod>2025-10-06T10:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mariyamfashion.com/category.php?category=8</loc>
+  <lastmod>2025-10-06T10:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

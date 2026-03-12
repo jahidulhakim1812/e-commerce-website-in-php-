@@ -1,0 +1,67 @@
+[09-Oct-2025 16:26:54 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/dashboard.php on line 21
+[09-Oct-2025 16:45:49 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/dashboard.php on line 21
+[09-Oct-2025 16:45:49 UTC] Dashboard error: Unknown column 'user_id' in 'WHERE'
+[09-Oct-2025 16:45:54 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/dashboard.php on line 21
+[09-Oct-2025 16:45:54 UTC] Dashboard error: Unknown column 'user_id' in 'WHERE'
+[09-Oct-2025 16:45:56 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/dashboard.php on line 21
+[09-Oct-2025 16:45:56 UTC] Dashboard error: Unknown column 'user_id' in 'WHERE'
+[09-Oct-2025 16:46:25 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/dashboard.php on line 21
+[09-Oct-2025 16:46:25 UTC] Dashboard error: Unknown column 'user_id' in 'WHERE'
+[09-Oct-2025 16:46:28 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/dashboard.php on line 21
+[09-Oct-2025 16:46:28 UTC] Dashboard error: Unknown column 'user_id' in 'WHERE'
+[09-Oct-2025 16:47:49 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/dashboard.php on line 21
+[09-Oct-2025 16:47:49 UTC] Dashboard error: Unknown column 'user_id' in 'WHERE'
+[09-Oct-2025 16:47:59 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/dashboard.php on line 21
+[09-Oct-2025 16:47:59 UTC] Dashboard error: Unknown column 'user_id' in 'WHERE'
+[09-Oct-2025 16:48:00 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/dashboard.php on line 21
+[09-Oct-2025 16:48:00 UTC] Dashboard error: Unknown column 'user_id' in 'WHERE'
+[09-Oct-2025 16:50:56 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/dashboard.php on line 21
+[09-Oct-2025 16:50:56 UTC] Dashboard error: Unknown column 'user_id' in 'WHERE'
+[09-Oct-2025 16:52:09 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/dashboard.php on line 21
+[09-Oct-2025 16:52:09 UTC] Dashboard error: Unknown column 'user_id' in 'WHERE'
+[09-Oct-2025 16:52:16 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/dashboard.php on line 21
+[09-Oct-2025 16:52:16 UTC] Dashboard error: Unknown column 'user_id' in 'WHERE'
+[09-Oct-2025 16:52:25 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/dashboard.php on line 21
+[09-Oct-2025 16:52:25 UTC] Dashboard error: Unknown column 'user_id' in 'WHERE'
+[09-Oct-2025 16:52:25 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/dashboard.php on line 21
+[09-Oct-2025 16:52:25 UTC] Dashboard error: Unknown column 'user_id' in 'WHERE'
+[09-Oct-2025 16:52:26 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/dashboard.php on line 21
+[09-Oct-2025 16:52:26 UTC] Dashboard error: Unknown column 'user_id' in 'WHERE'
+[09-Oct-2025 16:55:42 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/dashboard.php on line 21
+[09-Oct-2025 16:55:42 UTC] Dashboard error: Unknown column 'user_id' in 'WHERE'
+[09-Oct-2025 16:58:46 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/dashboard.php on line 21
+[09-Oct-2025 16:58:46 UTC] Dashboard error: Unknown column 'user_id' in 'WHERE'
+[09-Oct-2025 16:58:47 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/dashboard.php on line 21
+[09-Oct-2025 16:58:47 UTC] Dashboard error: Unknown column 'user_id' in 'WHERE'
+[09-Oct-2025 17:10:26 UTC] PHP Parse error:  syntax error, unexpected identifier " " in /home/mariyamf/public_html/users/dashboard.php on line 15
+[09-Oct-2025 17:10:27 UTC] PHP Parse error:  syntax error, unexpected identifier " " in /home/mariyamf/public_html/users/dashboard.php on line 15
+[09-Oct-2025 17:11:32 UTC] Dashboard error: Unknown column 'user_id' in 'WHERE'
+[09-Oct-2025 17:13:56 UTC] Dashboard error: Unknown column 'user_id' in 'WHERE'
+[09-Oct-2025 17:20:31 UTC] Dashboard error: Unknown column 'user_id' in 'WHERE'
+[09-Oct-2025 17:27:52 UTC] Dashboard error: Unknown column 'user_id' in 'WHERE'
+[09-Oct-2025 17:30:23 UTC] Dashboard error: Unknown column 'user_id' in 'WHERE'
+[09-Oct-2025 17:57:01 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/orders.php on line 21
+[09-Oct-2025 18:10:27 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/orders.php on line 21
+[09-Oct-2025 20:08:33 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/orders.php on line 21
+[09-Oct-2025 20:12:34 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/orders.php on line 21
+[09-Oct-2025 20:14:08 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/orders.php on line 21
+[09-Oct-2025 20:14:23 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/orders.php on line 21
+[09-Oct-2025 20:44:50 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/orders.php on line 21
+[09-Oct-2025 20:53:40 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/orders.php on line 21
+[09-Oct-2025 20:53:58 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/orders.php on line 21
+[09-Oct-2025 21:32:50 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/orders.php on line 21
+[09-Oct-2025 21:35:39 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/orders.php on line 21
+[09-Oct-2025 22:13:57 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/orders.php on line 21
+[09-Oct-2025 22:14:02 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/orders.php on line 21
+[09-Oct-2025 22:14:03 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/orders.php on line 21
+[09-Oct-2025 22:14:03 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/orders.php on line 21
+[09-Oct-2025 22:14:49 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/orders.php on line 21
+[09-Oct-2025 22:14:50 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/orders.php on line 21
+[09-Oct-2025 22:14:50 UTC] PHP Warning:  Undefined variable $servername in /home/mariyamf/public_html/users/orders.php on line 21
+[17-Oct-2025 17:52:28 UTC] FATAL PENDING ORDERS ERROR for user 2: Unknown column 'user_id' in 'WHERE'
+[17-Oct-2025 17:54:58 UTC] FATAL PENDING ORDERS ERROR for user 2: Unknown column 'user_id' in 'WHERE'
+[17-Oct-2025 17:55:58 UTC] FATAL PENDING ORDERS ERROR for user 2: Unknown column 'user_id' in 'WHERE'
+[17-Oct-2025 17:56:06 UTC] FATAL PENDING ORDERS ERROR for user 2: Unknown column 'user_id' in 'WHERE'
+[17-Oct-2025 17:56:10 UTC] FATAL PENDING ORDERS ERROR for user 2: Unknown column 'user_id' in 'WHERE'
+[17-Oct-2025 17:57:05 UTC] FATAL PENDING ORDERS ERROR for user 2: Unknown column 'user_id' in 'WHERE'
+[17-Oct-2025 18:00:42 UTC] FATAL PENDING ORDERS ERROR for user 2: Unknown column 'user_id' in 'WHERE'
